@@ -1,5 +1,7 @@
-# YOUR SONG
+# Ms.Jackson by Outkast
 
-> Lyric from your song
+> I am for realllll.
 
 ## Citations
+- [Genius](https://genius.com/Outkast-ms-jackson-lyrics)
+- [Open Props](https://open-props.style/)
