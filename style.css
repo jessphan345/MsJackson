@@ -1,0 +1,47 @@
+/* import google font */
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Rubik+Mono+One&display=swap");
+
+/* Import, Install, etc. Open Props */
+@import "https://unpkg.com/open-props";
+
+.intro {
+  display: block;
+  margin: 250px 0;
+  color: darkred;
+}
+
+a {
+  font-size: 7.5rem;
+  color: var(--camo-5);
+  font-style: italic;
+  font-family: "Rubik Mono One", monospace;
+  text-decoration: none;
+}
+
+body {
+  background-color: var(--jungle-12);
+  text-align: center;
+}
+
+blockquote {
+  color: var(--camo-5);
+  font-size: 2rem;
+  font-family: "Rubik Mono One", monospace;
+}
+
+p {
+  font-family: "Libre Baskerville", serif;
+  color: #fff891;
+}
+
+span {
+  font-size: 5rem;
+  color: olive;
+}
+
+div {
+  font-size: 8.5rem;
+  opacity: 35%;
+  color: black;
+  animation: 15s var(--animation-spin);
+}
