@@ -4,9 +4,9 @@
 /* Import, Install, etc. Open Props */
 @import "https://unpkg.com/open-props";
 
-.intro {
+
+.inred {
   display: block;
-  margin: 250px 0;
   color: darkred;
 }
 
