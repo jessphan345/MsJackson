@@ -7,7 +7,17 @@
 
 .inred {
   display: block;
-  color: darkred;
+  color: rgb(199, 0, 0);
+  text-shadow: 3px 1px 1px darkred;
+  font-family: "Rubik Mono One", monospace;
+}
+
+
+audio {
+  width: 200px;
+  display: block;
+  position: fixed;
+  opacity: 20%;
 }
 
 a {
@@ -37,11 +47,14 @@ p {
 span {
   font-size: 5rem;
   color: olive;
+  text-shadow: 3px 1px 5px #16cd37
 }
 
 div {
+  font-style:oblique;
   font-size: 8.5rem;
   opacity: 35%;
   color: black;
   animation: 15s var(--animation-spin);
+
 }
